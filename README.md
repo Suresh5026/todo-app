@@ -23,21 +23,21 @@ Follow these steps to get your development environment set up:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Suresh5026/todo-app.git
    cd todo-app
 
+   ```
+
 2. **Install Dependencies**
-   
+
    npm install
 
 3. **Run the App**
-    
    npm start
 4. **Open in Browser**
 
-   http://localhost:5173/   
+   http://localhost:5173/
 
-   
 # Conclusion
 
-The task has been successfully completed and deployed. The updated project has been pushed to GitHub and is live on Netlify. Thank you for reviewing and validating the task.
+The task has been successfully completed. The updated project has been pushed to GitHub. Thank you for reviewing and validating the task.
