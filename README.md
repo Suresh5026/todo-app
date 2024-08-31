@@ -33,8 +33,10 @@ Follow these steps to get your development environment set up:
    npm install
 
 3. **Run the App**
-   npm start
-4. **Open in Browser**
+
+   npm run dev
+   
+5. **Open in Browser**
 
    http://localhost:5173/
 
